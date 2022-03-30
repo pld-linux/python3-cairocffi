@@ -7,7 +7,7 @@
 Summary:	cffi-based cairo bindings for Python
 Name:		python3-%{module}
 Version:	1.2.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://github.com/Kozea/cairocffi/archive/v%{version}/%{module}-%{version}.tar.gz
